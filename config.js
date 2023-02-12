@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.session = process.env.SESSION_ID || 'PUT HERE',
-global.ownername = process.env.OWNER_NAME === undefined ? "DarkWinzo" : process.env.OWNER_NAME
-let fake = process.env.OWNER_NUMBER === undefined ? '94775200935' : process.env.OWNER_NUMBER
+global.session = process.env.SESSION_ID || 'TFh2cE5qdzA=',
+global.ownername = process.env.OWNER_NAME === undefined ? "Dark 𓄂𝙳𝙷𝙰𝙽𝚄𝚆𝙰ᥫ᭡⚘" : process.env.OWNER_NAME
+let fake = process.env.OWNER_NUMBER === undefined ? '94768911863' : process.env.OWNER_NUMBER
 global.owner = [`${fake}`]
 global.ownernumber = [`${fake}`]
 global.premium = [`${fake}`]
